@@ -69,7 +69,7 @@
   date: "2025-01"
   first_author: true
   conference: false
-  citations: 18
+  citations: 19
   ads: "https://ui.adsabs.harvard.edu/abs/2025ApJ...979....5L/abstract"
   arxiv: "https://arxiv.org/abs/2404.07316"
   doi: "https://doi.org/10.3847/1538-4357/ad9607"
@@ -90,7 +90,7 @@
   date: "2022-12"
   first_author: true
   conference: false
-  citations: 66
+  citations: 67
   ads: "https://ui.adsabs.harvard.edu/abs/2022MNRAS.517.1867L/abstract"
   arxiv: "https://arxiv.org/abs/2206.11269"
   doi: "https://doi.org/10.1093/mnras/stac2677"
